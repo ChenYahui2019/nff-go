@@ -1,7 +1,7 @@
 package dpdk
 
 import (
-	"github.com/intel-go/nff-go/internal/low"
+	"github.com/ChenYahui2019/nff-go/internal/low"
 )
 
 // SetCpuAffinity sets cpu affinity for dpdkr port thread.
