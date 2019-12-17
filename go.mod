@@ -1,4 +1,4 @@
-module github.com/ChenYahui/nff-go
+module github.com/ChenYahui2019/nff-go
 
 require (
 	github.com/docker/distribution v2.7.1+incompatible // indirect
